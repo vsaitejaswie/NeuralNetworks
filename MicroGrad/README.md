@@ -8,5 +8,5 @@ A manual implementation of neural networks, backpropagation, and gradient descen
 * **Automatic differentiation** engine for computing gradients
 
 **References:**
-* https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
-* https://github.com/karpathy/nn-zero-to-hero/tree/master/lectures/micrograd
+* MicroGrad Implemetation Lecture: https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+* Lecture Code: https://github.com/karpathy/nn-zero-to-hero/tree/master/lectures/micrograd
